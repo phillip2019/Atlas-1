@@ -3,6 +3,42 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Atlas.iml" filepath="$PROJECT_DIR$/.idea/Atlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization/atlas-authorization.iml" filepath="$PROJECT_DIR$/authorization/atlas-authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build-tools/atlas-buildtools.iml" filepath="$PROJECT_DIR$/build-tools/atlas-buildtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/atlas-client.iml" filepath="$PROJECT_DIR$/client/atlas-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/common/atlas-client-common.iml" filepath="$PROJECT_DIR$/client/common/atlas-client-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client-v1/atlas-client-v1.iml" filepath="$PROJECT_DIR$/client/client-v1/atlas-client-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client-v2/atlas-client-v2.iml" filepath="$PROJECT_DIR$/client/client-v2/atlas-client-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/atlas-common.iml" filepath="$PROJECT_DIR$/common/atlas-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboardv2/atlas-dashboardv2.iml" filepath="$PROJECT_DIR$/dashboardv2/atlas-dashboardv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distro/atlas-distro.iml" filepath="$PROJECT_DIR$/distro/atlas-distro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs/atlas-docs.iml" filepath="$PROJECT_DIR$/docs/atlas-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphdb/atlas-graphdb.iml" filepath="$PROJECT_DIR$/graphdb/atlas-graphdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphdb/api/atlas-graphdb-api.iml" filepath="$PROJECT_DIR$/graphdb/api/atlas-graphdb-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphdb/common/atlas-graphdb-common.iml" filepath="$PROJECT_DIR$/graphdb/common/atlas-graphdb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphdb/graphdb-impls/atlas-graphdb-impls.iml" filepath="$PROJECT_DIR$/graphdb/graphdb-impls/atlas-graphdb-impls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphdb/janus/atlas-graphdb-janus.iml" filepath="$PROJECT_DIR$/graphdb/janus/atlas-graphdb-janus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intg/atlas-intg.iml" filepath="$PROJECT_DIR$/intg/atlas-intg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphdb/janus-hbase2/atlas-janusgraph-hbase2.iml" filepath="$PROJECT_DIR$/graphdb/janus-hbase2/atlas-janusgraph-hbase2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/atlas-notification.iml" filepath="$PROJECT_DIR$/notification/atlas-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-classloader/atlas-plugin-classloader.iml" filepath="$PROJECT_DIR$/plugin-classloader/atlas-plugin-classloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository/atlas-repository.iml" filepath="$PROJECT_DIR$/repository/atlas-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-api/atlas-server-api.iml" filepath="$PROJECT_DIR$/server-api/atlas-server-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-tools/atlas-testtools.iml" filepath="$PROJECT_DIR$/test-tools/atlas-testtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/atlas-webapp.iml" filepath="$PROJECT_DIR$/webapp/atlas-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/falcon-bridge/falcon-bridge.iml" filepath="$PROJECT_DIR$/addons/falcon-bridge/falcon-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/falcon-bridge-shim/falcon-bridge-shim.iml" filepath="$PROJECT_DIR$/addons/falcon-bridge-shim/falcon-bridge-shim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/hbase-bridge/hbase-bridge.iml" filepath="$PROJECT_DIR$/addons/hbase-bridge/hbase-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/hbase-bridge-shim/hbase-bridge-shim.iml" filepath="$PROJECT_DIR$/addons/hbase-bridge-shim/hbase-bridge-shim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/hbase-testing-util/hbase-testing-util.iml" filepath="$PROJECT_DIR$/addons/hbase-testing-util/hbase-testing-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/hdfs-model/hdfs-model.iml" filepath="$PROJECT_DIR$/addons/hdfs-model/hdfs-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/hive-bridge/hive-bridge.iml" filepath="$PROJECT_DIR$/addons/hive-bridge/hive-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/hive-bridge-shim/hive-bridge-shim.iml" filepath="$PROJECT_DIR$/addons/hive-bridge-shim/hive-bridge-shim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/kafka-bridge/kafka-bridge.iml" filepath="$PROJECT_DIR$/addons/kafka-bridge/kafka-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/sqoop-bridge/sqoop-bridge.iml" filepath="$PROJECT_DIR$/addons/sqoop-bridge/sqoop-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/sqoop-bridge-shim/sqoop-bridge-shim.iml" filepath="$PROJECT_DIR$/addons/sqoop-bridge-shim/sqoop-bridge-shim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/storm-bridge/storm-bridge.iml" filepath="$PROJECT_DIR$/addons/storm-bridge/storm-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addons/storm-bridge-shim/storm-bridge-shim.iml" filepath="$PROJECT_DIR$/addons/storm-bridge-shim/storm-bridge-shim.iml" />
     </modules>
   </component>
 </project>
