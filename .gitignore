@@ -1,0 +1,9 @@
+.idea/
+sql/chinagoods/.dbeaver
+__pycache__
+*.code-workspace
+.project
+*.pyc
+.dbeaver/*
+target
+.idea/*
